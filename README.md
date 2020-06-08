@@ -1,2 +1,2 @@
 # GPAcalculator
-Calculates your GPA
+Calculates your GPA for MH Freshman Year 2016
